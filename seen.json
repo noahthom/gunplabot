@@ -4,6 +4,7 @@
     "grade": "HG",
     "release": null,
     "price": null,
+    "summary": "A Strike Freedom Gundam kit in a SEED FREEDOM ZERO Ver. variant, officially announced.",
     "exclusive": false
   },
   "hg 1/144 gundam zero (rg xarx-zero)": {
@@ -18,6 +19,7 @@
     "grade": "HG",
     "release": null,
     "price": null,
+    "summary": "A kit from the upcoming action game GUNDAM TRAJECTORY OF THE OTHER RAIL, fully revealed.",
     "exclusive": false
   },
   "hg 1/144 calice": {
@@ -25,6 +27,7 @@
     "grade": "HG",
     "release": null,
     "price": null,
+    "summary": "A kit from the upcoming action game GUNDAM TRAJECTORY OF THE OTHER RAIL that wields a massive lance.",
     "exclusive": false
   },
   "hg 1/144 bau bahlam": {
@@ -32,6 +35,7 @@
     "grade": "HG",
     "release": null,
     "price": null,
+    "summary": "A kit from the upcoming action game GUNDAM TRAJECTORY OF THE OTHER RAIL, Big Paul's pirate mobile suit, armed with a giant chainsaw.",
     "exclusive": false
   },
   "rg xarx-zero": {
@@ -53,6 +57,7 @@
     "grade": "RG",
     "release": null,
     "price": null,
+    "summary": "An RG kit from The King of Braves GaoGaiGar featuring newly tooled Ul-Tech Engines and Phantom Rings.",
     "exclusive": false
   },
   "hg 1/144 gundam helix (gundam trajectory of the other rail)": {
@@ -74,6 +79,14 @@
     "grade": "HG",
     "release": null,
     "price": null,
+    "exclusive": false
+  },
+  "hg 1/144 gundam zero (mobile suit gundam rg xarx-zero)": {
+    "name": "HG 1/144 Gundam ZERO (Mobile Suit Gundam RG XARX-ZERO)",
+    "grade": "HG",
+    "release": "Apr 2027",
+    "price": null,
+    "summary": "An HG 1/144 Gundam ZERO kit revealed alongside the RG XARX-ZERO.",
     "exclusive": false
   }
 }
