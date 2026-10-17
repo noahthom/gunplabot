@@ -1,1 +1,74 @@
-{}
+{
+  "hg 1/144 strike freedom gundam seed freedom zero ver. (tentative)": {
+    "name": "HG 1/144 Strike Freedom Gundam SEED FREEDOM ZERO Ver. (tentative)",
+    "grade": "HG",
+    "release": "January 2027",
+    "price": "2,970 yen (tax incl.)",
+    "summary": "New Strike Freedom kit tied to the SEED FREEDOM ZERO film (theatrical release Jan 15, 2027), with SEED Action System, two beam rifles and gradient-molded beam sabers. Japanese sources say Jan 2027; Gundam Planet lists a Feb 2027 arrival, which is likely just a North American estimate.",
+    "source_url": "https://www.toy-people.com/jp/?p=115456",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 infinite justice gundam & booster unit (tentative)": {
+    "name": "HG 1/144 Infinite Justice Gundam & Booster Unit (tentative)",
+    "grade": "HG",
+    "release": "February 2027",
+    "price": "4,070 yen (tax incl.)",
+    "summary": "SEED FREEDOM ZERO release based on the 2020 standard retail kit, with newly tooled weapons and a booster unit.",
+    "source_url": "https://www.toy-people.com/en/?p=115289",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gouf ignited custom": {
+    "name": "HG 1/144 GOUF Ignited Custom",
+    "grade": "HG",
+    "release": "April 2027",
+    "price": "3,190 yen (tax incl.)",
+    "summary": "SEED FREEDOM ZERO kit that reuses parts from the HG Gouf Ignited (Heine custom) but adds new forearms, shoulder armor, lower legs, head crest and flight pack. Retailers abroad list a May 2027 arrival.",
+    "source_url": "https://www.toy-people.com/en/?p=115286",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gundam zero (rg xarx-zero)": {
+    "name": "HG 1/144 Gundam ZERO (RG XARX-ZERO)",
+    "grade": "HG",
+    "release": "April 2027",
+    "price": "2,750 yen (tax incl.)",
+    "summary": "Lead mobile suit of the new RG XARX-ZERO anime, with Bandai's first 6-color multi-injection molding and a spine-linked articulation system. Bandai product page is live; the earlier \"TBD\" status is now replaced by April 2027 and 2,750 yen.",
+    "source_url": "https://www.toy-people.com/en/?p=115473",
+    "confidence": "confirmed"
+  },
+  "rg star gaogaigar": {
+    "name": "RG Star GaoGaiGar",
+    "grade": "RG",
+    "release": "February 2027",
+    "price": "11,000 yen (tax incl.)",
+    "summary": "Space-combat form of GaoGaiGar, built on the 2022 RG kit with newly tooled Stealth Gao II, Ul-Tech Engines and Phantom Rings. Release and price were TBD when first shown on Oct 2 and have now been confirmed.",
+    "source_url": "https://www.toy-people.com/en/?p=115516",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gundam helix (gundam trajectory of the other rail / rogue orbit)": {
+    "name": "HG 1/144 Gundam Helix (GUNDAM TRAJECTORY OF THE OTHER RAIL / Rogue Orbit)",
+    "grade": "HG",
+    "release": "January 2027",
+    "price": "2,750 yen (tax incl.)",
+    "summary": "Protagonist suit of the RG Project game, with deployable armor gimmicks plus a large sword and rifle. This is the standard retail version; the Earth Blue Ver. is bundled with the game and is not reported here.",
+    "source_url": "https://www.toy-people.com/en/?p=115472",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 calice": {
+    "name": "HG 1/144 Calice",
+    "grade": "HG",
+    "release": "February 2027",
+    "price": "3,080 yen (tax incl.)",
+    "summary": "Lance-wielding suit piloted by Elaine Galath in the RG Project game. Bandai's product page is live. One blog still lists a \"2027\" window, but Bandai-sourced reports say February 2027.",
+    "source_url": "https://www.toy-people.com/en/?p=115056",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 bau bahlam": {
+    "name": "HG 1/144 Bau Bahlam",
+    "grade": "HG",
+    "release": "February 2027",
+    "price": "3,080 yen (tax incl.)",
+    "summary": "Big Paul's mono-eye pirate suit with a chainsaw macuahuitl and a pull-cord gimmick. Bandai-sourced reports say February 2027, but some outlets still list the date as TBD 2027.",
+    "source_url": "https://www.toy-people.com/en/?p=115056",
+    "confidence": "confirmed"
+  }
+}
