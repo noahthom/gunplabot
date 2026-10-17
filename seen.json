@@ -33,5 +33,19 @@
     "release": null,
     "price": null,
     "exclusive": false
+  },
+  "rg xarx-zero": {
+    "name": "RG XARX-ZERO",
+    "grade": "RG",
+    "release": null,
+    "price": null,
+    "exclusive": false
+  },
+  "hg 1/144 gundam zero": {
+    "name": "HG 1/144 Gundam ZERO",
+    "grade": "HG",
+    "release": null,
+    "price": null,
+    "exclusive": false
   }
 }
