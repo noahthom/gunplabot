@@ -1,0 +1,74 @@
+{
+  "hg 1/144 strike freedom gundam seed freedom zero ver. (tentative)": {
+    "name": "HG 1/144 Strike Freedom Gundam SEED FREEDOM ZERO Ver. (Tentative)",
+    "grade": "HG",
+    "release": "January 2027",
+    "price": "2,970 yen (tax incl.)",
+    "summary": "Strike Freedom as seen in SEED FREEDOM ZERO, with SEED Action System, two beam rifles and gradient beam saber effects. Bandai-sourced reports say Jan 2027; Gundam Planet lists a Feb 2027 arrival, which is likely just a shipping estimate.",
+    "source_url": "https://www.archyde.com/gundam-seed-freedom-zero-announces-hg-strike-freedom-gundam-option-parts-set-for-january-2027/",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 infinite justice gundam & booster unit (tentative)": {
+    "name": "HG 1/144 Infinite Justice Gundam & Booster Unit (Tentative)",
+    "grade": "HG",
+    "release": "February 2027",
+    "price": "unknown",
+    "summary": "New HG kit from SEED FREEDOM ZERO with newly tooled weapons and a booster unit, announced by Bandai Hobby per Toy People. I didn't find a price.",
+    "source_url": "https://www.toy-people.com/en/?p=115289",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gouf ignited custom (seed freedom zero)": {
+    "name": "HG 1/144 GOUF Ignited Custom (SEED FREEDOM ZERO)",
+    "grade": "HG",
+    "release": "April 2027",
+    "price": "3,190 yen (tax incl.)",
+    "summary": "Heavier-armored Gouf Ignited variant that reuses some parts from the Heine Westenfluss kit and adds new forearms, shoulders, lower legs, head crest and flight pack. Gundam Planet lists a May 2027 arrival, which is likely a shipping estimate.",
+    "source_url": "https://www.toy-people.com/en/?p=115286",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gundam zero (mobile suit gundam rg xarx-zero)": {
+    "name": "HG 1/144 Gundam ZERO (Mobile Suit Gundam RG XARX-ZERO)",
+    "grade": "HG",
+    "release": "April 2027",
+    "price": "2,750 yen (tax incl.)",
+    "summary": "Lead mobile suit of the RG XARX-ZERO anime. It is the first Gunpla with six-color multi-injection molding and a linked-spine articulation system. Gundam Planet lists a May 2027 arrival, which is likely a shipping estimate.",
+    "source_url": "https://www.toy-people.com/en/?p=115473",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gundam helix (gundam trajectory of the other rail / rogue orbit)": {
+    "name": "HG 1/144 Gundam Helix (GUNDAM TRAJECTORY OF THE OTHER RAIL / ROGUE ORBIT)",
+    "grade": "HG",
+    "release": "January 2027",
+    "price": "2,750 yen (tax incl.)",
+    "summary": "Protagonist suit of the RG Project action game, with a large sword and rifle that mount on the backpack. HLJ lists 2027/01/31 at a different yen price (2,500), so I used the Bandai-sourced figure. The Earth Blue Ver. is a game-bundle exclusive and is not covered here.",
+    "source_url": "https://www.toy-people.com/en/?p=115472",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 calice (gundam trajectory of the other rail / rogue orbit)": {
+    "name": "HG 1/144 Calice (GUNDAM TRAJECTORY OF THE OTHER RAIL / ROGUE ORBIT)",
+    "grade": "HG",
+    "release": "February 2027",
+    "price": "3,080 yen (tax incl.)",
+    "summary": "Knight-themed suit that carries a massive lance, from the RG Project game. Bandai Hobby has published its product page. Gundam Planet lists a March 2027 arrival, which is likely a shipping estimate.",
+    "source_url": "https://www.toy-people.com/en/?p=115056",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 bau bahlam (gundam trajectory of the other rail / rogue orbit)": {
+    "name": "HG 1/144 Bau Bahlam (GUNDAM TRAJECTORY OF THE OTHER RAIL / ROGUE ORBIT)",
+    "grade": "HG",
+    "release": "February 2027",
+    "price": "3,080 yen (tax incl.)",
+    "summary": "Heavily armored pirate mobile suit piloted by Big Paul, with a giant chainsaw. Bandai Hobby has published its product page. Gundam Planet lists a March 2027 arrival, which is likely a shipping estimate.",
+    "source_url": "https://www.toy-people.com/en/?p=115056",
+    "confidence": "confirmed"
+  },
+  "rg star gaogaigar": {
+    "name": "RG Star GaoGaiGar",
+    "grade": "RG",
+    "release": "February 2027",
+    "price": "11,000 yen (tax incl.)",
+    "summary": "Space-combat version of RG GaoGaiGar. It adds newly tooled Stealth Gao II, Ul-Tech Engines and removable Phantom Rings, and includes four machines. Bandai Hobby listed it with a date and price after showing the prototype earlier this month.",
+    "source_url": "https://www.toy-people.com/en/?p=115516",
+    "confidence": "confirmed"
+  }
+}
