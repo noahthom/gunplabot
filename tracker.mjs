@@ -125,6 +125,7 @@ const messages = [
   { role: "user", content: `Run today's check. Starting pages:\n${START_PAGES.join("\n")}` },
 ];
 let usedInput = 0;
+let failed = false;
 try {
   for (let turn = 0; turn < MAX_TURNS; turn++) {
     const res = await client.messages.create({
@@ -157,6 +158,7 @@ try {
   }
 } catch (e) {
   console.error("Agent error:", e.message);
+  failed = true;
 }
 
 // ---- Your code, not the model, decides what gets sent and saved ----
@@ -188,6 +190,10 @@ if (!seen) {
     );
   });
   await notify(blocks);
+} else if (failed) {
+  await notify(["Heads up: the agent hit an error today. Check the run log in GitHub Actions."]);
+} else {
+  await notify([`Nothing new to report. Still tracking ${Object.keys({ ...seen, ...reports }).length} kits.`]);
 }
 
 fs.writeFileSync(SEEN_FILE, JSON.stringify({ ...(seen || {}), ...reports }, null, 2));
