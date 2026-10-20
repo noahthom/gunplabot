@@ -97,5 +97,32 @@
     "summary": "New HG kit of the Gundam ZZ Neo Zeon mobile suit, announced at Bandai's \"Latest! Gunpla Info Bureau\" broadcast. It uses flexible lead wires so the detached forearms and their three-barrel beam cannons can be posed in extended positions. No physical prototype was shown.",
     "source_url": "https://essential-japan.com/news/gundam-zzs-hamma-hamma-is-finally-getting-a-new-hg-gunpla-kit/",
     "confidence": "confirmed"
+  },
+  "hg 1/144 gundam virsago (after war gundam x)": {
+    "name": "HG 1/144 Gundam Virsago (After War Gundam X)",
+    "grade": "HG",
+    "release": "October 2026",
+    "price": "3,190 yen (tax included)",
+    "summary": "All-new HG kit of the Frost Brothers' Virsago with extendable Strike Claws and an opening abdomen for the Mega Sonic Cannon. Listed under general retail releases on the official Gundam site.",
+    "source_url": "https://en.gundam-official.com/news/x2tsw4zqbj90xby1dg2rl4yd",
+    "confidence": "confirmed"
+  },
+  "hg 1/144 gundam ashtaron (after war gundam x)": {
+    "name": "HG 1/144 Gundam Ashtaron (After War Gundam X)",
+    "grade": "HG",
+    "release": "November 2026",
+    "price": "3,960 yen (tax included)",
+    "summary": "Virsago's partner suit, with Atomic Scissors and a partial MA-mode transformation. Listed under general retail releases on the official Gundam site. One EU retailer (Zone Gunpla) estimates March 2027, but that is a retailer estimate and Bandai says November 2026.",
+    "source_url": "https://en.gundam-official.com/news/x2tsw4zqbj90xby1dg2rl4yd",
+    "confidence": "confirmed"
+  },
+  "mg 1/100 gundam liberty astray red frame": {
+    "name": "MG 1/100 Gundam Liberty Astray Red Frame",
+    "grade": "MG",
+    "release": "December 2026",
+    "price": "unknown",
+    "summary": "New MG kit listed under general retail Gunpla releases for October–December 2026 on the official Gundam site. The price was cut off in the search snippet and I couldn't load the page.",
+    "source_url": "https://en.gundam-official.com/news/x2tsw4zqbj90xby1dg2rl4yd",
+    "confidence": "confirmed"
   }
 }
